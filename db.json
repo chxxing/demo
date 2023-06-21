@@ -1,3 +1,6 @@
 {
-    "editorImg": {}
+    "editorImg": {
+        "id": 0,
+        "src": 'https://www.naver.com',
+    }
 }
