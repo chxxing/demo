@@ -2,11 +2,11 @@
     "editorImg": [
         {
             "id": 0,
-            "src": "https://www.naver.com",
+            "title": "CII기능"
         },
         {
             "id": 1,
-            "src": "https://www.daum.net",
+            "title": "운항 정보 요약 탭"
         }
     ]
 }
