@@ -1,6 +1,12 @@
 {
-    "editorImg": {
-        "id": 0,
-        "src": "https://www.naver.com",
-    }
+    "editorImg": [
+        {
+            "id": 0,
+            "src": "https://www.naver.com",
+        },
+        {
+            "id": 1,
+            "src": "https://www.daum.net",
+        }
+    ]
 }
